@@ -8,6 +8,7 @@ Welcome to the Customer Retention & Churn Analysis project developed as part of 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 **Project Overview:**
+![customer retention analysis_page-0001](https://github.com/AkshayShirbhate09/Pizza_Sales_Analysis_Using_MySQL_and_PowerBI/assets/161019134/e898ee9b-3f99-4a0c-a431-4dd4f536d6bb)
 
 This project focuses on analyzing customer retention and churn within Phone-Now, a fictitious telecommunications company. By examining various aspects such as customer demographics, usage patterns, satisfaction scores, and churn rates, we seek to gain a comprehensive understanding of the factors driving customer attrition.
 
